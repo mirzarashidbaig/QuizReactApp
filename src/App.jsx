@@ -106,7 +106,7 @@ function App() {
 
               <div className="quizbody">
                 <div className="questioncount">
-                  <h2> {Quescount + 1} Question  out of {questions.length} </h2>
+                  <h2> Questions {Quescount + 1}   out of {questions.length} </h2>
                 </div>
 
                 <div className="QuestionAns">

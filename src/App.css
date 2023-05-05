@@ -122,3 +122,20 @@ margin: 15px 0;
   font-weight: 600;
   cursor: pointer;
 }
+
+@media (max-width:500px){
+  .quizbody{
+    width: 96%;
+  }
+  .QuestionAns h2{
+    font-size: 1.5rem;
+  }
+
+  .list li{
+    font-size: 1rem;
+  }
+
+  .quizbody .questioncount{
+    font-size: 0.8rem;
+  }
+}
