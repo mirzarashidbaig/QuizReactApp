@@ -138,4 +138,8 @@ margin: 15px 0;
   .quizbody .questioncount{
     font-size: 0.8rem;
   }
+
+  .final{
+    width: 85%;
+  }
 }
